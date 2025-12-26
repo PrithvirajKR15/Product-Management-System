@@ -76,3 +76,6 @@ app/Http/Controllers: Contains Admin controllers and the API controller.
 public/css/style.css: All custom styling is located here.
 resources/views/admin: Contains all backend Blade files.
 resources/views/layouts: Contains the master layout file.
+
+
+Github url: https://github.com/PrithvirajKR15/Product-Management-System.git
